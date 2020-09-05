@@ -1,2 +1,7 @@
-### Hello, I'm Maykol 👋
-I'm a passionate Developer and Computer Science Student 
+Hello, I'm Maykol 👋
+---
+
+##### About Me:
+
+- 🖥 I'm a Developer.
+- 📔 I'm a Computer Science Student.
