@@ -9,5 +9,4 @@ Hello, I'm Maykol 👋
 
 ### ~ Languages
 
-![50%](https://progress-bar.dev/50)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />]
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />![Java](https://progress-bar.dev/50)
