@@ -16,6 +16,7 @@ Hey, I'm Maykol 👋
 <img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/redis.svg" />
 
 <br />
+
 ---
 <br />
 
