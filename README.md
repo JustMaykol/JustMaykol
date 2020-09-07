@@ -1,4 +1,4 @@
-Hello, I'm Maykol 👋
+Hey, I'm Maykol 👋
 ---
 
 ### ~ About Me
@@ -9,4 +9,11 @@ Hello, I'm Maykol 👋
 
 ### ~ Languages
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />![Java](https://progress-bar.dev/50)
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />
+<img align="left" height="32" width="50vw" src="https://unpkg.com/simple-icons@v3/icons/redis.svg" />
