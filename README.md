@@ -1,2 +1,2 @@
-Hey, I'm Maykol 👋
+> Hey, 👋
 ---
