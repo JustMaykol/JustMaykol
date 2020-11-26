@@ -6,7 +6,8 @@ My name is Maykol Morales and I'm a Computer Science Student and a Developer. I'
 
 ### Languages and Tools that I know
 
-<img src="https://img.shields.io/badge/-Python-fff?&logo=python">
+![Python] (https://img.shields.io/badge/-Python-fff?&logo=python)
+
 <img src="https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=f4bf75">
 <img src="https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=c62f2c">
 <img src="https://img.shields.io/badge/-HTML5-fff?&logo=HTML5">
