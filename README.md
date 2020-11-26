@@ -2,7 +2,7 @@
 
 ### Hi <img height="30px" src="https://raw.githubusercontent.com/zSirSpectro/zSirSpectro/master/assets/wave.gif">
 
-My name is Maykol Morales and I'm a Computer Science Student and a Developer. I'm from Lima, Peru
+My name is Maykol Morales and I'm a 18y Computer Science Student at [UTEC](https://www.utec.edu.pe/). I'm from Lima, Peru
 
 ### Languages and Tools that I know
 
