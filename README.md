@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/zSirSpectro/zSirSpectro/master/assets/banner.gif)
+![](https://raw.githubusercontent.com/zSirSpectro/zSirSpectro/master/img/banner.gif)
 
-### Hi ![](https://raw.githubusercontent.com/zSirSpectro/zSirSpectro/master/assets/wave.gif)
+### Hi ![](https://raw.githubusercontent.com/zSirSpectro/zSirSpectro/master/img/wave.gif)
 
 My name is Maykol Morales and I'm a 18y Computer Science Student at Utec. I'm from Lima, Peru
 
