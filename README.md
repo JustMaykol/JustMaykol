@@ -12,9 +12,14 @@ Estudiante de **Ciencia de la Computación** en la [UTEC](https://utec.edu.pe).
 
 [![Frameworks](https://skillicons.dev/icons?i=fastapi,nodejs,react,astro,gatsby,tailwind)](https://skillicons.dev)
 
-**Cloud, DevOps y bases de datos**
+**Cloud y DevOps**
 
-[![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,vercel,postgres,mongodb,redis)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,vercel)](https://skillicons.dev)
+[![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
+
+**Bases de datos**
+
+[![Bases de datos](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase)](https://skillicons.dev)
 
 **Herramientas**
 
