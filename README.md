@@ -35,11 +35,11 @@ Estudiante de **Ciencia de la Computación** en la [UTEC](https://utec.edu.pe).
 | **[Narrify](https://github.com/Narrify)** | Motor de generación de historias y diálogos para videojuegos con IA, en microservicios desplegados con Kubernetes | FastAPI · OpenAI · MongoDB · Kubernetes |
 | **[Calculadora de préstamos](https://calculadora-web-orcin.vercel.app)** | Cronogramas con el sistema francés (TEA/TCEA) y simulación de amortizaciones extraordinarias | FastAPI · PostgreSQL · Astro · React |
 
-## ⛏️ Redes de Minecraft
+## ⛏️ Minecraft Server Development
 
-Fundé y lideré el desarrollo de varias redes de servidores de Minecraft como **Owner y Lead Developer**.
+Fundé y desarrollé servidores de Minecraft como **Owner y Lead Developer**.
 
-| Red | Periodo | Qué construí |
+| Servidor | Periodo | Qué construí |
 |---|---|---|
 | **Pyro Network** | 2024 – 2025 | Core de la red, plugins de juego y liderazgo del equipo de desarrollo |
 | **DungeonRIP** | 2022 | Core de la red, fork propio del servidor, sistema de perfiles y permisos, y plugins de juego: cofres de loot, cosméticos, chat y bot de Discord |
@@ -49,7 +49,7 @@ Fundé y lideré el desarrollo de varias redes de servidores de Minecraft como *
 
 ## 🎓 Proyectos universitarios
 
-Mis proyectos de la UTEC están en **[Maykol-Morales](https://github.com/Maykol-Morales)**, organizados por curso (`cs2032-…`, `cs5383-…`).
+Mis proyectos de la UTEC están en **[Maykol-Morales](https://github.com/Maykol-Morales)**.
 
 ## 🕹️ Mis primeros proyectos
 
