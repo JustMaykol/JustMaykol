@@ -1,65 +1,65 @@
-# Hola, soy Maykol 👋
+# Hi, I'm Maykol 👋
 
-Estudiante de **Ciencia de la Computación** en la [UTEC](https://utec.edu.pe).
+I enjoy taking ideas all the way to production: from the API and cloud infrastructure to the interface people actually use. **Computer Science** student at [UTEC](https://utec.edu.pe) and founder of **[Neon](https://github.com/neon-saas)**.
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
-**Lenguajes**
+**Languages**
 
-[![Lenguajes](https://skillicons.dev/icons?i=python,ts,js,java,kotlin,cpp,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,java,kotlin,cpp,bash)](https://skillicons.dev)
 
-**Backend y frontend**
+**Backend & Frontend**
 
 [![Frameworks](https://skillicons.dev/icons?i=fastapi,nodejs,react,astro,gatsby,tailwind)](https://skillicons.dev)
 
-**Cloud y DevOps**
+**Cloud & DevOps**
 
 [![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,vercel)](https://skillicons.dev)
 
-**Bases de datos**
+**Databases**
 
-[![Bases de datos](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase)](https://skillicons.dev)
 
-**Herramientas**
+**Tools**
 
-[![Herramientas](https://skillicons.dev/icons?i=git,linux,arch,maven,cmake)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,linux,arch,maven,cmake)](https://skillicons.dev)
 
-## 🌟 Proyectos destacados
+## 🌟 Featured Projects
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **[Neon](https://github.com/neon-saas)** | SaaS multi-tenant: un asistente de IA atiende por WhatsApp, ofrece el catálogo y cierra ventas; el negocio lo supervisa desde un panel | FastAPI · PostgreSQL · Claude · Astro |
-| **[Asistencia CS2032](https://github.com/Maykol-Morales/cs2032-api-attendance)** | Registro de asistencia con QR, login de Google y validación de ubicación en el campus. [Web](https://github.com/Maykol-Morales/cs2032-web-attendance) · [Panel](https://github.com/Maykol-Morales/cs2032-web-admin) · [API](https://github.com/Maykol-Morales/cs2032-api-attendance) | AWS Lambda · DynamoDB · Astro · React |
-| **[utec-logger](https://github.com/Maykol-Morales/cs2032-logger)** | Librería de logging para Python con consola a color, archivos y AWS CloudWatch, publicada en [PyPI](https://pypi.org/project/utec-logger/) | Python · boto3 · GitHub Actions |
-| **[HACK//UTEC](https://github.com/Maykol-Morales/cs2032-web-hackathon)** | Web del hackathon de Cloud Computing: convocatoria, rúbrica y resultados de cada edición · [hackathon.cs2032.com](https://hackathon.cs2032.com) | Astro · Tailwind · AWS |
-| **[Narrify](https://github.com/Narrify)** | Motor de generación de historias y diálogos para videojuegos con IA, en microservicios desplegados con Kubernetes | FastAPI · OpenAI · MongoDB · Kubernetes |
-| **[Calculadora de préstamos](https://calculadora-web-orcin.vercel.app)** | Cronogramas con el sistema francés (TEA/TCEA) y simulación de amortizaciones extraordinarias | FastAPI · PostgreSQL · Astro · React |
+| **[Neon](https://github.com/neon-saas)** | Multi-tenant SaaS where an AI assistant serves customers on WhatsApp, offers the catalog and closes sales, while the business oversees everything from a dashboard | FastAPI · PostgreSQL · Claude · Astro |
+| **[CS2032 Attendance](https://github.com/Maykol-Morales/cs2032-api-attendance)** | Attendance tracking with QR codes, Google sign-in and on-campus location checks. [Web](https://github.com/Maykol-Morales/cs2032-web-attendance) · [Dashboard](https://github.com/Maykol-Morales/cs2032-web-admin) · [API](https://github.com/Maykol-Morales/cs2032-api-attendance) | AWS Lambda · DynamoDB · Astro · React |
+| **[utec-logger](https://github.com/Maykol-Morales/cs2032-logger)** | Python logging library with colored console output, log files and AWS CloudWatch, published on [PyPI](https://pypi.org/project/utec-logger/) | Python · boto3 · GitHub Actions |
+| **[HACK//UTEC](https://github.com/Maykol-Morales/cs2032-web-hackathon)** | Website for the Cloud Computing hackathon: call for participants, rubric and results for each edition · [hackathon.cs2032.com](https://hackathon.cs2032.com) | Astro · Tailwind · AWS |
+| **[Narrify](https://github.com/Narrify)** | AI-powered story and dialogue generation engine for video games, built as microservices deployed on Kubernetes | FastAPI · OpenAI · MongoDB · Kubernetes |
+| **[Loan Calculator](https://calculadora-web-orcin.vercel.app)** | Fixed-payment (French method) loan schedules with effective annual rates (TEA/TCEA) and extra principal payment simulation | FastAPI · PostgreSQL · Astro · React |
 
 ## ⛏️ Minecraft Server Development
 
-Fundé y desarrollé servidores de Minecraft como **Owner y Lead Developer**.
+I founded and developed Minecraft servers as **Owner and Lead Developer**.
 
-| Servidor | Periodo | Qué construí |
+| Server | Period | What I built |
 |---|---|---|
-| **[Pyro Network](https://github.com/PyroRIP)** | 2024 – 2025 | Core de la red, plugins de juego y liderazgo del equipo de desarrollo |
-| **[DungeonRIP](https://github.com/DungeonRIP)** | 2022 | Core de la red, fork propio del servidor, sistema de perfiles y permisos, y plugins de juego: cofres de loot, cosméticos, chat y bot de Discord |
-| **[ZeonPvP](https://github.com/ZeonPvP)** | 2021 – 2022 | Core de la red (API, proxy y servidor), fork propio del servidor y bot de Discord |
+| **[Pyro Network](https://github.com/PyroRIP)** | 2024 – 2025 | Network core, gameplay plugins and development team leadership |
+| **[DungeonRIP](https://github.com/DungeonRIP)** | 2022 | Network core, custom server fork, profiles and permissions system, and gameplay plugins: loot chests, cosmetics, chat and a Discord bot |
+| **[ZeonPvP](https://github.com/ZeonPvP)** | 2021 – 2022 | Network core (API, proxy and server), custom server fork and a Discord bot |
 
 **Stack:** Java · Kotlin · Spigot/Paper · BungeeCord · MongoDB · Redis · JDA (Discord)
 
-## 🎓 Proyectos universitarios
+## 🎓 University Projects
 
-Mis proyectos de la UTEC están en **[Maykol-Morales](https://github.com/Maykol-Morales)**.
+My UTEC projects live in **[Maykol-Morales](https://github.com/Maykol-Morales)**.
 
-## 🕹️ Mis primeros proyectos
+## 🕹️ Early Projects
 
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
-| [Maze-Solver](https://github.com/JustMaykol/Maze-Solver) | Camino más corto en un laberinto con el algoritmo de Lee (BFS) · Python |
-| [Hanoi-Tower-Solver](https://github.com/JustMaykol/Hanoi-Tower-Solver) | Torres de Hanoi recursivas · Python |
-| [Pong-Game](https://github.com/JustMaykol/Pong-Game) | Pong con modo contra la computadora y de dos jugadores · C++ · SFML |
-| [Green](https://github.com/JustMaykol/Green) | Mensajería entre servidores con Redis Pub/Sub · Kotlin |
+| [Maze-Solver](https://github.com/JustMaykol/Maze-Solver) | Shortest path through a maze using Lee's algorithm (BFS) · Python |
+| [Hanoi-Tower-Solver](https://github.com/JustMaykol/Hanoi-Tower-Solver) | Recursive Tower of Hanoi solver · Python |
+| [Pong-Game](https://github.com/JustMaykol/Pong-Game) | Pong with single-player (vs. computer) and two-player modes · C++ · SFML |
+| [Green](https://github.com/JustMaykol/Green) | Cross-server messaging over Redis Pub/Sub · Kotlin |
 
-## 📈 Actividad
+## 📈 Activity
 
-[![Racha de contribuciones](https://streak-stats.demolab.com?user=JustMaykol&theme=dark&hide_border=true)](https://github.com/JustMaykol)
+[![Contribution streak](https://streak-stats.demolab.com?user=JustMaykol&theme=dark&hide_border=true)](https://github.com/JustMaykol)
