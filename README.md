@@ -15,7 +15,6 @@ Estudiante de **Ciencia de la Computación** en la [UTEC](https://utec.edu.pe).
 **Cloud y DevOps**
 
 [![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,vercel)](https://skillicons.dev)
-[![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
 
 **Bases de datos**
 
