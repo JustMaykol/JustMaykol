@@ -41,9 +41,9 @@ Fundé y desarrollé servidores de Minecraft como **Owner y Lead Developer**.
 
 | Servidor | Periodo | Qué construí |
 |---|---|---|
-| **Pyro Network** | 2024 – 2025 | Core de la red, plugins de juego y liderazgo del equipo de desarrollo |
-| **DungeonRIP** | 2022 | Core de la red, fork propio del servidor, sistema de perfiles y permisos, y plugins de juego: cofres de loot, cosméticos, chat y bot de Discord |
-| **ZeonPvP** | 2022 | Core de la red (API, proxy y servidor), fork propio del servidor y bot de Discord |
+| **[Pyro Network](https://github.com/PyroRIP)** | 2024 – 2025 | Core de la red, plugins de juego y liderazgo del equipo de desarrollo |
+| **[DungeonRIP](https://github.com/DungeonRIP)** | 2022 | Core de la red, fork propio del servidor, sistema de perfiles y permisos, y plugins de juego: cofres de loot, cosméticos, chat y bot de Discord |
+| **[ZeonPvP](https://github.com/ZeonPvP)** | 2021 – 2022 | Core de la red (API, proxy y servidor), fork propio del servidor y bot de Discord |
 
 **Stack:** Java · Kotlin · Spigot/Paper · BungeeCord · MongoDB · Redis · JDA (Discord)
 
