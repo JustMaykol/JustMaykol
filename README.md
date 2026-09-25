@@ -46,7 +46,6 @@ Mis proyectos de la UTEC están en **[Maykol-Morales](https://github.com/Maykol-
 | [Maze-Solver](https://github.com/JustMaykol/Maze-Solver) | Camino más corto en un laberinto con el algoritmo de Lee (BFS) · Python |
 | [Hanoi-Tower-Solver](https://github.com/JustMaykol/Hanoi-Tower-Solver) | Torres de Hanoi recursivas · Python |
 | [Pong-Game](https://github.com/JustMaykol/Pong-Game) | Pong con modo contra la computadora y de dos jugadores · C++ · SFML |
-| [Red](https://github.com/JustMaykol/Red) | Plugin de Minecraft para datos de jugadores en JSON o MongoDB · Java |
 | [Green](https://github.com/JustMaykol/Green) | Mensajería entre servidores con Redis Pub/Sub · Kotlin |
 
 ## 📈 Actividad
