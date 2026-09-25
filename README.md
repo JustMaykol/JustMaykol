@@ -2,6 +2,12 @@
 
 I enjoy taking ideas all the way to production: from the API and cloud infrastructure to the interface people actually use. **Computer Science** student at [UTEC](https://utec.edu.pe) and founder of **[Neon](https://github.com/neon-saas)**.
 
+- 🚀 Building **Neon**, an AI assistant that sells on WhatsApp for small businesses
+- ☁️ Designing **serverless systems on AWS**: Lambda, API Gateway, DynamoDB, S3, CloudFront
+- 📦 Publishing open-source tools like [utec-logger](https://pypi.org/project/utec-logger/) on PyPI, with CI/CD on GitHub Actions
+- ⛏️ Former **Owner and Lead Developer** of Minecraft servers, where I learned to build and scale large codebases
+- 🐧 Daily Linux user ([Omarchy](https://github.com/JustMaykol/omarchy-setup) on Arch)
+
 ## 🛠️ Tech Stack
 
 **Languages**
