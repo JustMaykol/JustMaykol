@@ -1,11 +1,6 @@
 # Hola, soy Maykol 👋
 
-Estudiante de **Ciencia de la Computación** en la [UTEC](https://utec.edu.pe) y **ACL del curso de Cloud Computing (CS2032)**. Me gusta construir productos completos: desde la API y la infraestructura en la nube hasta la interfaz que usan las personas.
-
-- 🚀 Construyendo **[Neon](https://github.com/neon-saas)**: ventas por WhatsApp con IA para pequeños y medianos negocios en Perú.
-- ☁️ Diseño y despliego sistemas **serverless en AWS** (Lambda, API Gateway, DynamoDB, S3, CloudFront) que se usan en el curso cada semestre.
-- 📦 Publico librerías en **PyPI** con CI/CD en GitHub Actions.
-- 🐧 Uso Linux a diario ([Omarchy](https://github.com/JustMaykol/omarchy-setup), sobre Arch).
+Estudiante de **Ciencia de la Computación** en la [UTEC](https://utec.edu.pe).
 
 ## 🛠️ Tecnologías
 
